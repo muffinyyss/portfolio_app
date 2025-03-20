@@ -4,6 +4,7 @@ import logo from "../assets/img/portfolio.png";
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import navIcon2 from "../assets/img/nav-icon2.svg";
 import navIcon3 from "../assets/img/nav-icon3.svg";
+import githubIcon from '../assets/img/logo.png';
 
 export const Footer = () => {
   return (
@@ -19,8 +20,9 @@ export const Footer = () => {
                 <a href="https://www.linkedin.com/in/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%A1%E0%B8%B5-141386342/"><img src={navIcon1} alt="" /></a>
                 <a href="https://www.facebook.com/thitima.dangmee.2024"><img src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/ccccccccccream._/"><img src={navIcon3} alt="" /></a>
+                <a href="https://github.com/muffinyyss"><img src={githubIcon} alt="" /></a>
             </div>
-            <p>Copyright 2022. All Rights Reserved</p>
+            <p>Copyright 2025. Thitima Dengmee</p>
           </Col>
         </Row>
       </Container>

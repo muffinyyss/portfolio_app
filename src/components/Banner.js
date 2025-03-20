@@ -58,9 +58,8 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Thitima`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Software Developer", "Software Tester", "Web App Developer" '><span className="wrap">{text}</span></span></h1>
                   <p>I have 2 years of experience as a temporary accounting staff and have worked on multiple team and individual projects, including a university-adopted web application.<br></br>
-
+<br></br>
 I am continuously learning and developing my skills in MySQL, MariaDB, C#, HTML, CSS, PHP, React, Node.js, and Laravel, and can apply them to real-world projects.</p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
           </Col>
