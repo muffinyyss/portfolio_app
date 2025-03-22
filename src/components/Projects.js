@@ -5,6 +5,11 @@ import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import comingsoon from "../assets/img/Coming-soon.png";
+import p1 from "../assets/img/pic-1.png";
+import p2 from "../assets/img/pic-2.png";
+import p3 from "../assets/img/pic-3.png";
+import p4 from "../assets/img/pic-4.png";
+import p5 from "../assets/img/pic-5.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -14,32 +19,32 @@ export const Projects = () => {
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg1,
+      imgUrl: p1,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg2,
+      imgUrl: p2,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg3,
+      imgUrl: p5,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg1,
+      imgUrl: comingsoon,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg2,
+      imgUrl: comingsoon,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg3,
+      imgUrl: comingsoon,
     },
   ];
 
