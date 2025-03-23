@@ -17,98 +17,98 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #1",
+      description: "Project Graduation",
       imgUrl: p1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #2",
+      description: "Project Swift UI",
       imgUrl: p2,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #3",
+      description: "Project NSC",
       imgUrl: p5,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #4",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #5",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #6",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
   ];
 
   const projects2 = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #7",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #8",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #9",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #10",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #11",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #12",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
   ];
   const projects3 = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #13",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #14",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #15",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #16",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #17",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "PROJECT #18",
+      description: "Coming Soon ",
       imgUrl: comingsoon,
     },
   ];

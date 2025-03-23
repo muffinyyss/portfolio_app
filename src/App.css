@@ -413,14 +413,17 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 0 55px 55px 0;
 }
-.proj-imgbx img{
+.proj-imgbx {
   position: relative;
   border-radius: 30px;
   overflow: hidden;
   margin-bottom: 24px;
-  width: 100%; /* ให้รูปเต็มขนาดของ container */
-  height: 250px; /* กำหนดความสูงให้เท่ากัน */
-  /* object-fit: cover; ป้องกันภาพเสียสัดส่วน */
+  height: 300px;
+}
+.proj-imgbx img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 .proj-imgbx::before {
   content: "";
@@ -540,6 +543,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .contact form button:hover::before {
   width: 100%;
 }
+
+
 
 
 /************ Footer Css ************/
